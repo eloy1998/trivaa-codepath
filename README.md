@@ -1,10 +1,10 @@
-# Project 4 - *Name of App Here*
+# Project 4 - Trivaaaaa2
 
-Submitted by: **Your Name Here**
+Submitted by: Elyoy
 
-**Name of your app** is an app that ... [TODO] 
+Trivaaaaa2 is an app that ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
