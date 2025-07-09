@@ -6,6 +6,14 @@ Trivaaaaa2 is an app that ... [TODO]
 
 Time spent: **4** hours spent in total
 
+<div>
+    <a href="https://www.loom.com/share/2c1f40fa43124eb49edc8b308beae3de">
+    </a>
+    <a href="https://www.loom.com/share/2c1f40fa43124eb49edc8b308beae3de">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/2c1f40fa43124eb49edc8b308beae3de-c084b60314b5e71e-full-play.gif">
+    </a>
+  </div>
+
 ## Required Features
 
 The following **required** functionality is completed:
